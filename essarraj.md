@@ -12,10 +12,9 @@ Il problema che risolve la mia WebApp è quello di poter consultare il costo di 
 #### Ricerca viaggi:
 - Funzionalità per ricercare il viaggio con data sia di ritorno che di andata oppure solo andata
 - Visualizzazione della ricerca in modo dettagliato con prezzi, orari dei voli e compagnie aeree
-- Possibilità di selezionare e prenotare il viaggio
 #### Prenotazione:
 - Inserimento dei dettagli dei passeggeri dopo aver selezionato il viaggio da prenotare
-- Riepilogo della prenotazione e conferma del pagamento
+- Riepilogo della prenotazione
 #### Conferme e notifiche:
 - Notifica di conferma del pagamento tramite email
 - Notifica di eventuale variazioni di orari dei voli
