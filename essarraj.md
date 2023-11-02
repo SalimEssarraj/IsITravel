@@ -1,5 +1,6 @@
 # WebApp gestione e prenotazione viaggi
-Questa WebApp ti permette di gestire e prenotare un viaggio. Offre diverse funzionalità per consentire agli utenti di cercare e trovare viaggi, voli, alloggi per una vacanza indimenticabile. Tutte queste funzionalità sono raggruppate in un'unica applicazione semplice da utilzzare ed efficace
+## PROBLEMA:
+
 ## SPECIFICA DEI REQUISITI:
 ### REQUISITI FUNZIONALI
 #### Registrazione e autenticazione:
@@ -26,7 +27,7 @@ Questa WebApp ti permette di gestire e prenotare un viaggio. Offre diverse funzi
 #### Mappe per visualizzare la destinazione:
 - Visualizzazione di mappe per la destinazione
 #### Assistenza clienti:
-- Assitenza con chat con il gestore
+- Assitenza chat con il gestore
 ### REQUISITI NON FUNZIONALI
 #### Compatibilità
 - Garantire che il sito sia compatibile con tutti i dispositivi e browser
