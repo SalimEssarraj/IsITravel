@@ -37,13 +37,13 @@ Il problema che risolve la mia WebApp è quello di poter consultare il costo di 
 ### Gestire profilo:
 - Attore: Utente
 - Scenario: l'utente dopo aver effettuato il login all'applicazione, entra nella sezione utente per visualizzare i propri dati personali, informazioni di pagamento ecc...
-### Ricerca viaggio:
+### Ricercare un viaggio:
 - Attore: Utente
 - Scenario: L'utente entra nella sezione della ricerca e in base alle sue esigenze di budget, destinazione e compagnia area, che potrà selezionare in una sezione filtri, per effettuare unaa ricerca
-### Prenotazione viaggio:
+### Prenotare un viaggio:
 - Attore: Utente
 - Scenario: L'utente seleziona l'opzione che desidera selezionare e completa la prenotazione inserendo i dettagli dei passeggeri
-### Gestione prenotazioni:
+### Gestire prenotazioni:
 - Attore: Utente
 - Scenario: L'utente modifica, elimina e visualizza le prenotazioni effettuate
 ### Notifiche: 
