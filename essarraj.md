@@ -13,9 +13,8 @@
 - Funzionalità per ricercare il viaggio con data sia di ritorno che di andata oppure solo andata
 - Visualizzazione della ricerca in modo dettagliato con prezzi, orari dei voli e compagnie aeree
 - Possibilità di selezionare e prenotare il viaggio
-#### Pagamenti:
+#### Prenotazione:
 - Inserimento dei dettagli dei passeggeri dopo aver selezionato il viaggio da prenotare
-- Gestione pagamento attraverso varie opzioni (PayPal, carta di credito ecc...)
 - Riepilogo della prenotazione e conferma del pagamento
 #### Conferme e notifiche:
 - Notifica di conferma del pagamento tramite email
@@ -31,16 +30,9 @@
 ### REQUISITI NON FUNZIONALI
 #### Compatibilità
 - Garantire che il sito sia compatibile con tutti i dispositivi e browser
-## PROBLEMI: 
-- Trovare delle infromazioni che siano affidabili su destinazioni, voli e alloggi
-- Mantenere traccia delle prenotazioni dei documenti e delle conferme
-- Assistenza clienti per problemi durante il viaggio.
-
-## SOLUZIONI: 
-- Implementazioni di ricerca avanzato che consente agli utenti di cercare e confrontare le opzioni disponibili 
-- Implementazione di un'area personale per gli utenti che permette di tenere traccia delle prenotazioni e ricevere dei promemoria 
-- Implementazione di area di assistenza per gli utenti per eventuali problemi
-
+### REQUISITI DI DOMINIO:
+#### Pagamenti:
+- Gestione pagamento attraverso varie opzioni (PayPal, carta di credito ecc...)
 ## CASI D'USO:
 ### Gestire profilo:
 - Attore: Utente
