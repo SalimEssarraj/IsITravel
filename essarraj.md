@@ -1,11 +1,11 @@
 # WebApp gestione e prenotazione viaggi
 ## PROBLEMA:
-
+Il problema che risolve la mia WebApp è quello di poter consultare il costo di volo, alloggio di una vacanza da casa.
 ## SPECIFICA DEI REQUISITI:
 ### REQUISITI FUNZIONALI
 #### Registrazione e autenticazione:
-- Registrazione degli utenti con email e password
-- Autenticazione utenti con email e password o social (Facebook, Google)
+- Registrazione degli utenti 
+- Autenticazione utenti 
 #### Gestione profilo utente:
 - Modifica dei dati personali
 - Aggiunta foto profilo
@@ -33,13 +33,29 @@
 ### REQUISITI DI DOMINIO:
 #### Pagamenti:
 - Gestione pagamento attraverso varie opzioni (PayPal, carta di credito ecc...)
+
 ## CASI D'USO:
 ### Gestire profilo:
 - Attore: Utente
 - Scenario: l'utente dopo aver effettuato il login all'applicazione, entra nella sezione utente per visualizzare i propri dati personali, informazioni di pagamento ecc...
 ### Ricerca viaggio:
 - Attore: Utente
-- Scenario: L'utente entra nella sezione della ricerca e in base alle sue esigenze di budget, destinazione e compagnia area, che potrà selezionare in una sezione filtri, verrà effettuata la ricerca
+- Scenario: L'utente entra nella sezione della ricerca e in base alle sue esigenze di budget, destinazione e compagnia area, che potrà selezionare in una sezione filtri, per effettuare la ricerca
+### Prenotazione viaggio:
+- Attore: Utente
+- Scenario: L'utente seleziona l'opzione che desidera selezionare e completa la prenotazione inserendo i dettagli dei passeggeri
+### Gestione prenotazioni:
+- Attore: Utente
+- Scenario: L'utente modifica, elimina e visualizza le prenotazioni effettuate
+### Notifiche: 
+- Attore: Sistema
+- Scenario: Il sistema invia all'utente aggiornamenti sul volo esempio (ritardi), promozioni o informazioni sul viaggio
+### Assistenza clienti:
+- Attore: Utente
+- Scenario: L'utente può contattare il sistema per richiedere assistenza
+### Pagamento viaggio:
+- Attore: Utente
+- Scenario: L'utente inserisce i propri dati della carta e effettua il pagamento
 ### Recensioni:
 - Attore: Utente
-- Scenario: L'utente dopo aver effettuato il viaggio potrà inserire una valutazione positiva o negativa, nella sezione utente -> viaggi effettuati, in modo da dare un idea ad un possibile utente che               vorrà utilizzare la stessa compagnia aerea o hotel
+- Scenario: L'utente dopo aver effettuato il viaggio può inserire una valutazione positiva o negativa, nella sezione utente -> viaggi effettuati, in modo da dare un idea ad un possibile utente che               vorrà utilizzare la stessa compagnia aerea o hotel
