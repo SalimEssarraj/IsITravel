@@ -40,7 +40,7 @@ Il problema che risolve la mia WebApp è quello di poter consultare il costo di 
 - Scenario: l'utente dopo aver effettuato il login all'applicazione, entra nella sezione utente per visualizzare i propri dati personali, informazioni di pagamento ecc...
 ### Ricerca viaggio:
 - Attore: Utente
-- Scenario: L'utente entra nella sezione della ricerca e in base alle sue esigenze di budget, destinazione e compagnia area, che potrà selezionare in una sezione filtri, per effettuare la ricerca
+- Scenario: L'utente entra nella sezione della ricerca e in base alle sue esigenze di budget, destinazione e compagnia area, che potrà selezionare in una sezione filtri, per effettuare unaa ricerca
 ### Prenotazione viaggio:
 - Attore: Utente
 - Scenario: L'utente seleziona l'opzione che desidera selezionare e completa la prenotazione inserendo i dettagli dei passeggeri
@@ -58,4 +58,8 @@ Il problema che risolve la mia WebApp è quello di poter consultare il costo di 
 - Scenario: L'utente inserisce i propri dati della carta e effettua il pagamento
 ### Recensioni:
 - Attore: Utente
-- Scenario: L'utente dopo aver effettuato il viaggio può inserire una valutazione positiva o negativa, nella sezione utente -> viaggi effettuati, in modo da dare un idea ad un possibile utente che               vorrà utilizzare la stessa compagnia aerea o hotel
+- Scenario: L'utente dopo aver effettuato il viaggio può inserire una valutazione positiva o negativa in modo da dare un idea ad un possibile utente che vorrà utilizzare la stessa compagnia aerea o hotel
+
+
+## DIAGRAMMA UML
+<img src="https://yuml.me/diagram/usecase/[Utente]-(Gestire%20profilo%20utente),(Gestire%20profilo%20utente)%3E(Login),[Utente]-(Ricercare%20il%20viaggio),(Ricercare%20il%20Viaggio)%3C(Filtri%20sulla%20ricerca),(Ricercare%20il%20viaggio)%3C(Login),[Utente]-(Prenotare%20un%20viaggio),(Prenotare%20un%20viaggio)%3E(Login),[Utente]-(Pagamento%20viaggio),(Pagamento%20viaggio)%3E(Prenotare%20un%20viaggio),[Utente]-(Gestire%20prenotazioni),(Gestire%20prenotazioni)%3E(Login),[Utente]-(Ricevere%20notifiche%20su%20viaggi%20e%20promozioni),(Ricevere%20notifiche%20su%20viaggi%20e%20promozioni)%3E(Login),(Assistenza%20clienti)%3E(Login),[Utente]-(Assistenza%20clienti),(Assistenza%20clienti)%5E[Amministratore%20Sistema],[Utente]-(Recensioni%20e%20valutazioni%20sui%20viaggi),(Recensioni%20e%20valutazioni%20sui%20viaggi)%3E(Login),">
