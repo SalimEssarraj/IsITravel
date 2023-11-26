@@ -63,5 +63,7 @@ Il problema che risolve la mia WebApp è quello di poter consultare il costo di 
 ## DIAGRAMMA UML
 <img src="https://yuml.me/diagram/usecase/[Utente]-(Gestire%20profilo%20utente),(Gestire%20profilo%20utente)%3E(Login),[Utente]-(Ricercare%20il%20viaggio),(Ricercare%20il%20Viaggio)%3C(Filtri%20sulla%20ricerca),(Ricercare%20il%20viaggio)%3C(Login),[Utente]-(Prenotare%20un%20viaggio),(Prenotare%20un%20viaggio)%3E(Login),[Utente]-(Pagamento%20viaggio),(Pagamento%20viaggio)%3E(Prenotare%20un%20viaggio),[Utente]-(Gestire%20prenotazioni),(Gestire%20prenotazioni)%3E(Login),[Utente]-(Ricevere%20notifiche%20su%20viaggi%20e%20promozioni),(Ricevere%20notifiche%20su%20viaggi%20e%20promozioni)%3E(Login),(Assistenza%20clienti)%3E(Login),[Utente]-(Assistenza%20clienti),(Assistenza%20clienti)%5E[Amministratore%20Sistema],[Utente]-(Recensioni%20e%20valutazioni%20sui%20viaggi),(Recensioni%20e%20valutazioni%20sui%20viaggi)%3E(Login),">
 
-## WBS
-<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVNK-ix90=/?moveToViewport=-1318,-880,2504,1242&embedId=484831795227" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+## WBS 
+![image](https://github.com/SalimEssarraj/esercizio/assets/101174782/c8d2c922-150d-4fb1-87d3-0b6007bf375e)
+
+
