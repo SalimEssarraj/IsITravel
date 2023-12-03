@@ -1,4 +1,13 @@
 # WebApp gestione e prenotazione viaggi
+
+## VALUE PROPOSITION:
+La mia WebApp è la soluzione per pianificare e organizzare i viaggi in modo semplice e efficente. Ti propongoi diversi strumenti:
+
+- Pianificazione Persnalizzata: Puoi creare itinierari su misura in base ai tuoi interessi, budget e preferenze
+- Gestione Unificata: Puoi tenere sotto controllo tutto con un'unica piattaforma. Archivia prenotazioni, biglietti e note importanti per accedere alle informazioni per il viaggio.
+  
+Tramite la mia applicazione la tua esperienza di pianificazione diventa leggera e fluida. Unisciti a me e trasforma ogni viaggio in un'epica avventura senza confini.
+
 ## PROBLEMA:
 Il problema che risolve la mia WebApp è quello di poter consultare il costo di volo, alloggio di una vacanza da casa.
 ## SPECIFICA DEI REQUISITI:
@@ -65,5 +74,3 @@ Il problema che risolve la mia WebApp è quello di poter consultare il costo di 
 
 ## WBS 
 ![image](https://github.com/SalimEssarraj/esercizio/assets/101174782/c8d2c922-150d-4fb1-87d3-0b6007bf375e)
-
-
