@@ -68,6 +68,40 @@ Il problema che risolve la mia WebApp è quello di poter consultare il costo di 
 - Attore: Utente
 - Scenario: L'utente dopo aver effettuato il viaggio può inserire una valutazione positiva o negativa in modo da dare un idea ad un possibile utente che vorrà utilizzare la stessa compagnia aerea o hotel
 
+## USER STORIES
+
+### Settimana 1:
+
+#### Registrazione e Autenticazione (1 giorno):
+- L'utente vuole poter registrare inserendo i dati personali (nome, email, password) per accedere al sito.
+- L'utente registrato, vuole poter effettuare l'accesso utilizzando l'email e la password per accedere al profilo.
+#### Gestione Profilo Utente (4 ore):
+- L'utente, desidera poter modificare i dati personali (nome, foto del profilo) nel profilo utente.
+- L'utente, vuole poter aggiungere o cambiare la foto del profilo.
+#### Ricerca Viaggi (2 giorni e 4 ore):
+- L'utente, vuole poter cercare voli inserendo le date di andata e ritorno o solo di andata, visualizzando dettagli come prezzi, orari dei voli e compagnie aeree.
+#### Prenotazione (1 giorno):
+- L'utente, vuole inserire i dettagli dei passeggeri dopo aver selezionato il volo da prenotare.
+- L'utente, desidera visualizzare un riepilogo della prenotazione prima di confermarla.
+
+### Settimana 2:
+
+#### Conferme e Notifiche (1 giorno):
+- L'utente, desidera ricevere una notifica di conferma del pagamento via email dopo aver effettuato la prenotazione.
+- L'utente, vuole ricevere notifiche in caso di variazioni degli orari dei voli prenotati.
+#### Gestione Viaggi (1 giorno):
+- L'utente, vuole gestire i viaggi prenotati in una sezione dedicata, per modificare date o cancellare viaggi.
+#### Gestione Recensioni (4 ore):
+- L'utente, desidera poter lasciare recensioni o valutazioni per voli o alloggi che ha utilizzato.
+#### Mappe per Visualizzare la Destinazione (4 ore):
+- L'utente, vuole visualizzare mappe per le destinazioni dei viaggi prenotati.
+#### Assistenza Clienti (1 giorno):
+- L'utente, desidera poter accedere a un'assistenza via chat con il gestore del sito per domande o problemi.
+#### Requisiti Non Funzionali - Compatibilità (4 ore):
+- L'utente, vuole poter accedere al sito da qualsiasi dispositivo o browser per garantire una buona esperienza utente.
+#### Requisiti di Dominio - Pagamenti (4 ore):
+- L'utente, vuole poter effettuare pagamenti utilizzando varie opzioni come PayPal, carta di credito, ecc.
+
 
 ## DIAGRAMMA UML
 <img src="https://yuml.me/diagram/usecase/[Utente]-(Gestire%20profilo%20utente),(Gestire%20profilo%20utente)%3E(Login),[Utente]-(Ricercare%20il%20viaggio),(Ricercare%20il%20Viaggio)%3C(Filtri%20sulla%20ricerca),(Ricercare%20il%20viaggio)%3C(Login),[Utente]-(Prenotare%20un%20viaggio),(Prenotare%20un%20viaggio)%3E(Login),[Utente]-(Pagamento%20viaggio),(Pagamento%20viaggio)%3E(Prenotare%20un%20viaggio),[Utente]-(Gestire%20prenotazioni),(Gestire%20prenotazioni)%3E(Login),[Utente]-(Ricevere%20notifiche%20su%20viaggi%20e%20promozioni),(Ricevere%20notifiche%20su%20viaggi%20e%20promozioni)%3E(Login),(Assistenza%20clienti)%3E(Login),[Utente]-(Assistenza%20clienti),(Assistenza%20clienti)%5E[Amministratore%20Sistema],[Utente]-(Recensioni%20e%20valutazioni%20sui%20viaggi),(Recensioni%20e%20valutazioni%20sui%20viaggi)%3E(Login),">
