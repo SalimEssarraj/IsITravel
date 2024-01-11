@@ -97,9 +97,9 @@ Il problema che risolve la mia WebApp è quello di poter consultare il costo di 
 - L'utente, vuole visualizzare mappe per le destinazioni dei viaggi prenotati.
 #### Assistenza Clienti (1 giorno):
 - L'utente, desidera poter accedere a un'assistenza via chat con il gestore del sito per domande o problemi.
-#### Requisiti Non Funzionali - Compatibilità (4 ore):
+#### Compatibilità (4 ore):
 - L'utente, vuole poter accedere al sito da qualsiasi dispositivo o browser per garantire una buona esperienza utente.
-#### Requisiti di Dominio - Pagamenti (4 ore):
+#### Pagamenti (4 ore):
 - L'utente, vuole poter effettuare pagamenti utilizzando varie opzioni come PayPal, carta di credito, ecc.
 
 
