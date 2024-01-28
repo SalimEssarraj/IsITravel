@@ -9,7 +9,7 @@ La mia WebApp è la soluzione per pianificare e organizzare i viaggi in modo sem
 Tramite la mia applicazione la tua esperienza di pianificazione diventa leggera e fluida. Unisciti a me e trasforma ogni viaggio in un'epica avventura senza confini.
 
 ## PROBLEMA:
-Il problema che risolve la mia WebApp è quello di poter consultare il costo di volo, alloggio di una vacanza da casa.
+Il mio progetto risolve un problema fondamentale perché molto spesso quando si vuole prenotare un viaggio o una vacanza si riscontrano diverse difficoltà di consultazione rapida, perché bisogna dedicare molto tempo per fare le ricerche sulle diverse piattaforme presenti online. La mia WebApp ha come obiettivo quello di risolvere il problema, ottenendo le informazioni di cui abbiamo bisogno in un'unica piattaforma.
 ## SPECIFICA DEI REQUISITI:
 ### REQUISITI FUNZIONALI
 #### Registrazione e autenticazione:
