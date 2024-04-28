@@ -108,3 +108,13 @@ Il mio progetto risolve un problema fondamentale perché molto spesso quando si 
 
 ## WBS 
 ![image](https://github.com/SalimEssarraj/esercizio/assets/101174782/c8d2c922-150d-4fb1-87d3-0b6007bf375e)
+
+
+## STARTUP PIVOT
+
+Il mercato non ha reagito come avevo previsto di conseguenza posso integrare strumenti per la gestione delle attività durante il viaggio, consigli personalizzati basati sull'intelligenza artificiale o offerte esclusive per i clienti della piattaforma. Inoltre posso modificare il modello di business per migliorare le fonti di reddito. Infine tramite delle ricerche posso identificare altri mercati come turismo culturale, ecoturismo e adattarli alla mia webApp.
+
+## MULTITENANCY
+
+La mia WebApp è già multitenant, questo significa che ogni cliente (o tenant) che utilizza la mia WebApp ha accesso a un ambiente separato e personalizzato all'interno della piattaforma, e i dati e le risorse di ciascun cliente sono mantenuti isolati dagli altri.
+
